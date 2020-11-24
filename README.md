@@ -3,7 +3,7 @@
 
 This project is for educational purposes only.
 
-Site published at https://inetavei.github.io/mergaite/
+Site published at https://inetavei.github.io/3-mergaite/
 
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
